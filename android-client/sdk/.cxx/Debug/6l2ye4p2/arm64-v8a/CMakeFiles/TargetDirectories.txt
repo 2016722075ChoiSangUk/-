@@ -1,0 +1,3 @@
+C:/Users/VaZiRaC/Desktop/andi/android-client/sdk/.cxx/Debug/6l2ye4p2/arm64-v8a/CMakeFiles/opencv_jni_shared.dir
+C:/Users/VaZiRaC/Desktop/andi/android-client/sdk/.cxx/Debug/6l2ye4p2/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/VaZiRaC/Desktop/andi/android-client/sdk/.cxx/Debug/6l2ye4p2/arm64-v8a/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\Users\VaZiRaC\Desktop\andi\android-client\sdk\.cxx\Debug\6l2ye4p2\x86'
+ninja: no work to do.

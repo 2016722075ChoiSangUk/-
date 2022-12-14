@@ -1,0 +1,3 @@
+include ':sdk'
+include ':app'
+rootProject.name = "번호판 인식"
